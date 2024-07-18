@@ -15,7 +15,7 @@ opacity = 0.8
 blur = true
 
 option_as_alt = "Both"
-startup_mode = "Fullscreen"
+startup_mode = "Windowed"
 #startup_mode = "Windowed" | "Maximized" | "Fullscreen" | "SimpleFullscreen"
 
 [window.dimensions]
